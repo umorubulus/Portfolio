@@ -1,2 +1,42 @@
 title: Bulus Umoru
-theme:jykyll_theme-minimal
+subtitle: "Data Analyst | Analytics & Insights"
+description: "Data-driven insights and analytical solutions"
+url: "https://umorubulus.github.io"
+baseurl: "/Portfolio"
+
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+
+# Site Author (Your Profile)
+author:
+  name: "Bulus Umoru"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Data Analyst specializing in business intelligence and data visualization"
+  location: "Your Location"
+  email: "your.email@example.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/umorubulus"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/bulusumoru"
+
+# Footer Social Links
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/umorubulus"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/bulusumoru"
+
+# Build settings
+exclude: [README.md, Gemfile, Gemfile.lock]
