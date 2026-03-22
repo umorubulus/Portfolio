@@ -1,2 +1,109 @@
+# Site Information
 title: Bulus Umoru
+subtitle: "Data Analyst | Analytics & Insights"
+description: "Data-driven insights and analytical solutions"
+url: "https://umorubulus.github.io"
+baseurl: "/Portfolio"
+
+# Theme Configuration
 theme: jekyll-remote-theme
+remote_theme: "mmistakes/minimal-mistakes@4.26.1"
+
+# Plugins for Analytics Portfolio
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+# Minimal Mistakes Skin (choose one)
+minimal_mistakes_skin: "default" # or "dark", "air", "aqua", "contrast", "dark", "dirt", "neon", "plum", "sunrise"
+
+# Site Author (Your Profile)
+author:
+  name: "Bulus Umoru"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Data Analyst specializing in business intelligence and data visualization"
+  location: "Your Location"
+  email: "your.email@example.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/umorubulus"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/bulusumoru"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:your.email@example.com"
+
+# Footer Social Links
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/umorubulus"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/bulusumoru"
+
+# Collections (For Projects/Case Studies)
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults
+defaults:
+  # Portfolio Projects
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      comments: true
+  
+  # Blog Posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+
+# Pagination
+paginate: 10
+paginate_path: /page:num/
+
+# Search
+search: true
+search_full_content: true
+
+# SEO & Analytics
+google_site_verification: "your-verification-code"
+google_analytics:
+  provider: "google-gtag"
+  google_tag_manager: "GTM-XXXXXXX"
+
+# Build
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Social Sharing
+twitter:
+  username: "your_twitter"
+social:
+  type: Person
+  name: Bulus Umoru
+  links:
+    - "https://github.com/umorubulus"
+    - "https://linkedin.com/in/bulusumoru"
