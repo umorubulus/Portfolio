@@ -1,21 +1,20 @@
-# Site Information
 title: Bulus Umoru
 subtitle: "Data Analyst | Analytics & Insights"
 description: "Data-driven insights and analytical solutions"
 url: "https://umorubulus.github.io"
 baseurl: "/Portfolio"
 
-# Theme Configuration
-theme: jekyll-remote-theme
-remote_theme: "mmistakes/minimal-mistakes@4.26.1"
+# Use a GitHub Pages-compatible theme instead
+theme: jekyll-theme-cayman
+# or try: jekyll-theme-slate, jekyll-theme-minimal, jekyll-theme-dinky
 
-# Plugins for Analytics Portfolio
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-  - jemoji
+
+markdown: kramdown
 
 # Minimal Mistakes Skin (choose one)
 minimal_mistakes_skin: "default" # or "dark", "air", "aqua", "contrast", "dark", "dirt", "neon", "plum", "sunrise"
