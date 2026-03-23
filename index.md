@@ -1,4 +1,4 @@
-# Your Name  
+# Bulus Umoru  
 ### Data Analyst  
 
 Welcome to my portfolio! I am a passionate data analyst dedicated to turning data insights into actionable strategies. Below, you can find a little more about me and how to connect with me.
