@@ -7,15 +7,6 @@ I have a strong background in data analysis, visualization, and statistical mode
 Feel free to reach out to me via my social media channels or through email. Let's connect and explore data together!  
 
 <!--Section 1: Introduce your self-->
-## ABOUT ME
-
-Hello! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
-
-
-<!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
-
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
 
 **- ✅ Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
@@ -25,7 +16,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## MY PROJECTS
 
 *A glimpse of some of the projects I've been working on.*
 
@@ -61,15 +52,15 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:umorubulus@fukashere.edu.ng">Umorubulus@fukashere.edu.ng</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(+49) 1511-1238-155</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Potsdam, Deutschland</td>
     </tr>
     <tr>
       <td>⬇️</td>
@@ -77,12 +68,9 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://linkedin.com/in/bulus-umoru">My LinkedIn Profile</a></td>
     </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
-    </tr>
+    
   </tbody>
 </table>
 
