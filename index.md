@@ -51,7 +51,7 @@ The objective is to transform structured sales data into actionable insights tha
 
 <img src="Sales Performance Dashboard.png" width="800">
 
-[Explore More details and Interactive Dashboard here](https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI)
+[Read More and Explore the Interactive Dashboard here](https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI)
 -
 ---
 
