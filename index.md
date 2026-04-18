@@ -1,21 +1,33 @@
 #Bulus Umoru
-## About Me as a Data Analyst  
+## About Me  
 I am a passionate data analyst dedicated to turning data insights into actionable strategies. Below, you can find a little more about me and how to connect with me. 
 I have a strong background in data analysis, visualization, and statistical modeling. I love to dive into datasets and extract meaningful insights that can help businesses thrive.
 
-## Connect with Me  
-Feel free to reach out to me via my social media channels or through email. Let's connect and explore data together!  
+---
 
-<!--Section 1: Introduce your self-->
+### 🔍 Core Skills
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+- Data Analysis & Exploration  
+- Data Cleaning & Transformation  
+- Data Visualization & Dashboard Development  
+- KPI Tracking & Performance Analysis  
+- Business Insight Generation  
+- SQL Querying & Data Extraction  
+- Python for Data Analysis (pandas, numpy)  
+- Statistical Thinking & Trend Analysis  
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+---
 
+### 🛠 Tools & Technologies
 
-<!--Section 2: List 3-4 key projects-->
+- **Languages & Querying:** Python, SQL  
+- **Data Analysis:** pandas, numpy  
+- **Visualization:** Power BI, Matplotlib  
+- **Data Handling:** Microsoft Excel  
+- **Other:** Git, GitHub  
+
+---
+
 ## MY PROJECTS
 
 *A glimpse of some of the projects I've been working on.*
@@ -40,6 +52,7 @@ The objective is to transform structured sales data into actionable insights tha
 <img src="Sales Performance Dashboard.png" width="800">
 
 [Read More](https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI)
+---
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
