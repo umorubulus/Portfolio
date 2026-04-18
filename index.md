@@ -32,7 +32,7 @@ I have a strong background in data analysis, visualization, and statistical mode
 
 *A glimpse of some of the projects I've been working on.*
 
-### Sales Performance Analysis
+### 1. Sales Performance Analysis
 
 #### 📖 Overview
 
@@ -51,7 +51,8 @@ The objective is to transform structured sales data into actionable insights tha
 
 <img src="Sales Performance Dashboard.png" width="800">
 
-[Read More](https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI)
+[Explore More details and Interactive Dashboard here](https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI)
+-
 ---
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
