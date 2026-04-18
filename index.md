@@ -22,9 +22,22 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 ### Sales Performance Analysis
 
-<img src = "https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI/blob/0f37f7cc702ace0456c3d8538a0c390f3c3e19d2/Sales%20Performance%20Dashboard.png>
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+#### 📖 Overview
 
+This project presents an interactive Power BI dashboard designed to analyze sales performance across multiple dimensions, including revenue, profit, regional distribution, and product-level insights.
+
+The objective is to transform structured sales data into actionable insights that support business decision-making and performance monitoring.
+
+#### 🎯 Objectives
+- Analyze total revenue and profit performance
+- Track sales trends over time
+- Evaluate regional and category-level performance
+- Identify top-performing products and sub-categories
+- Highlight areas of low profitability
+
+#### 📊 Dashboard Preview
+
+<img src = "Sales Performance Dashboard.png>
 
 [Read More](https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI)
 
