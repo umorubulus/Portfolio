@@ -20,13 +20,13 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
+### Sales Performance Analysis
 
+<img src = "https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI/blob/0f37f7cc702ace0456c3d8538a0c390f3c3e19d2/Sales%20Performance%20Dashboard.png>
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 
-[Read More](https://github.com/umorubulus/IBM-Data-Analyst-Capstone-Project-)
+[Read More](https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
