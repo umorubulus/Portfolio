@@ -1,0 +1,60 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Responsive logo */
+header img {
+  display: block;
+  max-width: 180px;
+  width: 100%;
+  height: auto;
+  margin: 0 auto 16px auto;
+  border-radius: 10px;
+}
+
+/* Hide default GitHub project block (optional but recommended) */
+header ul,
+header .view {
+  display: none;
+}
+
+/* Responsive images */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Tablet */
+@media screen and (max-width: 768px) {
+  header img {
+    max-width: 110px;
+    width: 35vw;
+    min-width: 70px;
+  }
+
+  header h1 {
+    font-size: 1.2rem;
+  }
+
+  header p {
+    font-size: 0.9rem;
+  }
+}
+
+/* Mobile */
+@media screen and (max-width: 480px) {
+  header img {
+    max-width: 90px;
+    width: 30vw;
+    min-width: 60px;
+  }
+
+  header h1 {
+    font-size: 1.05rem;
+  }
+
+  header p {
+    font-size: 0.8rem;
+  }
+}
