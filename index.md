@@ -6,22 +6,18 @@ I have a strong background in data analysis, visualization, and statistical mode
 ---
 ## 🛠 Tools & Technologies
 
-### 🔹 Languages & Querying
+🔹 Languages & Querying
 ![Python](https://img.shields.io/badge/Python-blue)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey)
-
-### 🔹 Data Analysis
+🔹 Data Analysis
 ![Pandas](https://img.shields.io/badge/pandas-150458)
 ![NumPy](https://img.shields.io/badge/NumPy-013243)
-
-### 🔹 Visualization
+🔹 Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-orange)
-
-### 🔹 Data Handling
+🔹 Data Handling
 ![Microsoft Excel](https://img.shields.io/badge/Excel-green)
-
-### 🔹 Other Tools
+🔹 Other Tools
 ![Git](https://img.shields.io/badge/Git-red)
 ![GitHub](https://img.shields.io/badge/GitHub-black)
 
