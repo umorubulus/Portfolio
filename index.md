@@ -87,7 +87,7 @@ Analyzed customer transaction data to segment customers based on value and behav
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:umorubulus@fukashere.edu.ng">Umorubulus@fukashere.edu.ng> Email me</a></td>
+      <td><a href="mailto:umorubulus@fukashere.edu.ng">Email me</a></td>
     </tr>
     <tr>
       <td>📞</td>
