@@ -3,7 +3,7 @@
 
 📍 Potsdam, Germany  
 🔗 [LinkedIn](https://linkedin.com/in/bulus-umoru)  
-<!--📄 [Download CV](https://etuk123456.github.io/portfolio1/docs/Profile.pdf)
+<!--📄 [Download CV](https://etuk123456.github.io/portfolio1/docs/Profile.pdf)-->
 
 ---
 
@@ -76,16 +76,6 @@ Analyzed customer transaction data to segment customers based on value and behav
 <img src="Customer segmentation Dashboard.png" width="800">
 
 👉 [View Full Project](https://github.com/umorubulus/Customer-Segmentation-Analysis)
-
----
-
-## 📈 Additional Work
-
-### Titanic Data Analysis (Statistical & Predictive Insights)
-
-Exploratory analysis and hypothesis-driven investigation of passenger survival patterns.
-
-👉 [Download Report](17%20How%20to%20Present%20Data%20to%20Executives%20by%20Anietie%20Etuk.pdf)
 
 ---
 
