@@ -51,7 +51,11 @@ The objective is to transform structured sales data into actionable insights tha
 
 <img src="Sales Performance Dashboard.png" width="800">
 
-[Read More and Explore the Interactive Dashboard here](https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI)
+<p>
+  <a href="https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI" target="_blank">
+    🔗 View Full Project
+  </a>
+</p>
 
 ---
 
@@ -72,7 +76,12 @@ Using Python and SQL-based thinking, the analysis transforms raw transactional d
 
 #### 📊 Visualisations Preview (Python)
 <img src="Customer segmentation Dashboard.png" width="800">
-[Read More](https://github.com/umorubulus/Customer-Segmentation-Analysis)
+
+<p>
+  <a href="https://github.com/umorubulus/Customer-Segmentation-Analysis" target="_blank">
+    🔗 View Full Project
+  </a>
+</p>
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
