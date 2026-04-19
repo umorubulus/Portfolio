@@ -100,8 +100,8 @@ Analyzed customer transaction data to segment customers based on value and behav
    <!-- <tr>
       <td>⬇️</td>
       <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
-    </tr>
-    <tr> -->
+    </tr>-->
+    <tr>
       <td>🌐</td>
       <td><a href="https://linkedin.com/in/bulus-umoru">My LinkedIn Profile</a></td>
     </tr>
