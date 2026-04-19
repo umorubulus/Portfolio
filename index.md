@@ -1,10 +1,22 @@
-#Bulus Umoru
-## About Me  
-I am a passionate data analyst dedicated to turning data insights into actionable strategies. Below, you can find a little more about me and how to connect with me. 
-I have a strong background in data analysis, visualization, and statistical modeling. I love to dive into datasets and extract meaningful insights that can help businesses thrive.
+# 👋 Bulus Umoru  
+### Data Analyst | Turning Data into Business Insights  
+
+📍 Potsdam, Germany  
+🔗 [LinkedIn](https://linkedin.com/in/bulus-umoru)  
+<!--📄 [Download CV](https://etuk123456.github.io/portfolio1/docs/Profile.pdf)
 
 ---
-### 🛠 Tools & Technologies
+
+## 🚀 About Me
+
+I am a Data Analyst with a strong focus on transforming data into actionable insights that support business decisions.
+
+I specialize in data analysis, dashboard development, and extracting meaningful patterns from data to solve real-world problems. My work combines analytical thinking with practical tools to deliver clear, impactful results.
+
+---
+
+## 🛠 Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge)
@@ -15,82 +27,57 @@ I have a strong background in data analysis, visualization, and statistical mode
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
 
+---
 
-### 🔍 Core Skills
+## 🔍 Core Competencies
 
 - Data Analysis & Exploration  
 - Data Cleaning & Transformation  
 - Data Visualization & Dashboard Development  
 - KPI Tracking & Performance Analysis  
-- Business Insight Generation  
 - SQL Querying & Data Extraction  
-- Python for Data Analysis (pandas, numpy)  
-- Statistical Thinking & Trend Analysis  
+- Python (pandas, numpy) for Data Analysis  
+- Business Insight Generation  
 
 ---
 
-## MY PROJECTS
+# 📊 Featured Projects
 
-*A glimpse of some of the projects I've been working on.*
+---
 
-### **1. Sales Performance Analysis (Power BI, Excel)**
+## 🚀 1. Sales Performance Dashboard  
+**Tools:** Power BI, Excel  
 
-#### 📖 Overview
+### 📌 Overview  
+Interactive dashboard analyzing sales performance across customers, regions, and products to support business decision-making.
 
-This project presents an interactive Power BI dashboard designed to analyze sales performance across multiple dimensions, including revenue, profit, regional distribution, and product-level insights.
-
-The objective is to transform structured sales data into actionable insights that support business decision-making and performance monitoring.
-
-#### 🎯 Objectives
-- Analyze total revenue and profit performance
-- Track sales trends over time
-- Evaluate regional and category-level performance
-- Identify top-performing products and sub-categories
-- Highlight areas of low profitability
-
-#### 📊 Dashboard Preview (Power BI)
+### 📊 Key Insights  
+- Identified top-performing regions and revenue drivers  
+- Highlighted customer contribution patterns  
+- Revealed opportunities for improving low-performing segments  
 
 <img src="Sales Performance Dashboard.png" width="800">
 
-<p>
-  <a href="https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI" target="_blank">
-    🔗 View Full Project
-  </a>
-</p>
+👉 [View Full Project](https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI)
 
 ---
 
-### **2.Customer Segmentation Analysis (Python, SQL)**
+## 🚀 2. Customer Segmentation Analysis  
+**Tools:** Python, SQL  
 
-#### 📖 Overview
-This project analyzes customer transaction data to understand purchasing behavior and segment customers based on their value to the business.
+### 📌 Overview  
+Analyzed customer transaction data to segment customers based on value and behavior.
 
-Using Python and SQL-based thinking, the analysis transforms raw transactional data into customer-level insights that support targeted strategies, retention efforts, and revenue optimization.
+### 📊 Key Insights  
+- Identified high-value and low-value customer groups  
+- Enabled targeted marketing strategies  
+- Improved understanding of purchasing behavior  
 
----
-
-#### 🎯 Objectives
-- Analyze customer purchasing behavior  
-- Identify high-value customers  
-- Segment customers based on spending patterns  
-- Support data-driven decision-making  
-
-#### 📊 Visualisations Preview (Python)
 <img src="Customer segmentation Dashboard.png" width="800">
 
-<p>
-  <a href="https://github.com/umorubulus/Customer-Segmentation-Analysis" target="_blank">
-    🔗 View Full Project
-  </a>
-</p>
+👉 [View Full Project](https://github.com/umorubulus/Customer-Segmentation-Analysis)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](3 anietie etuk data analytics agro project.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+---
 
 
 ## CONTACT DETAILS
@@ -110,11 +97,11 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
       <td>📍</td>
       <td>Potsdam, Deutschland</td>
     </tr>
-    <tr>
+   <!-- <tr>
       <td>⬇️</td>
       <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
     </tr>
-    <tr>
+    <tr> -->
       <td>🌐</td>
       <td><a href="https://linkedin.com/in/bulus-umoru">My LinkedIn Profile</a></td>
     </tr>
