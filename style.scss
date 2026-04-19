@@ -1,0 +1,109 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* General layout refinement */
+.wrapper {
+  width: min(1200px, 95%);
+}
+
+/* Make sidebar content cleaner */
+header {
+  text-align: center;
+}
+
+/* Responsive logo */
+header img {
+  display: block;
+  max-width: 180px;
+  width: 100%;
+  height: auto;
+  margin: 0 auto 16px auto;
+  border-radius: 10px;
+}
+
+/* Clean sidebar text spacing */
+header h1 {
+  font-size: 1.7rem;
+  line-height: 1.2;
+  margin-bottom: 10px;
+}
+
+header p {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin-bottom: 12px;
+}
+
+/* Optional: hide GitHub auto-generated project box if you want a cleaner sidebar */
+header ul,
+header .view {
+  display: none;
+}
+
+/* Keep project images responsive in main content */
+section img,
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Tablet */
+@media screen and (max-width: 960px) {
+  header img {
+    max-width: 140px;
+    margin-bottom: 12px;
+  }
+
+  header h1 {
+    font-size: 1.45rem;
+  }
+
+  header p {
+    font-size: 0.9rem;
+  }
+}
+
+/* Mobile */
+@media screen and (max-width: 768px) {
+  header {
+    padding-right: 0;
+    text-align: center;
+  }
+
+  header img {
+    max-width: 110px;
+    width: 35vw;
+    min-width: 72px;
+    margin-bottom: 10px;
+  }
+
+  header h1 {
+    font-size: 1.25rem;
+    margin-bottom: 8px;
+  }
+
+  header p {
+    font-size: 0.88rem;
+    line-height: 1.4;
+    margin-bottom: 8px;
+  }
+}
+
+/* Small phones */
+@media screen and (max-width: 480px) {
+  header img {
+    max-width: 90px;
+    width: 30vw;
+    min-width: 64px;
+  }
+
+  header h1 {
+    font-size: 1.1rem;
+  }
+
+  header p {
+    font-size: 0.82rem;
+  }
+}
