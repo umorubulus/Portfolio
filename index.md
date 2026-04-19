@@ -57,14 +57,14 @@ The objective is to transform structured sales data into actionable insights tha
 
 ### **2.Customer Segmentation Analysis (Python, SQL)**
 
-## 📖 Overview
+#### 📖 Overview
 This project analyzes customer transaction data to understand purchasing behavior and segment customers based on their value to the business.
 
 Using Python and SQL-based thinking, the analysis transforms raw transactional data into customer-level insights that support targeted strategies, retention efforts, and revenue optimization.
 
 ---
 
-## 🎯 Objectives
+#### 🎯 Objectives
 - Analyze customer purchasing behavior  
 - Identify high-value customers  
 - Segment customers based on spending patterns  
