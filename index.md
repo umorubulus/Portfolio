@@ -32,7 +32,7 @@ I have a strong background in data analysis, visualization, and statistical mode
 
 *A glimpse of some of the projects I've been working on.*
 
-### 1. Sales Performance Analysis
+### **1. Sales Performance Analysis (Power BI, Excel)**
 
 #### 📖 Overview
 
@@ -47,21 +47,32 @@ The objective is to transform structured sales data into actionable insights tha
 - Identify top-performing products and sub-categories
 - Highlight areas of low profitability
 
-#### 📊 Dashboard Preview
+#### 📊 Dashboard Preview (Power BI)
 
 <img src="Sales Performance Dashboard.png" width="800">
 
 [Read More and Explore the Interactive Dashboard here](https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI)
--
+
 ---
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+### **2.Customer Segmentation Analysis (Python, SQL)**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+## 📖 Overview
+This project analyzes customer transaction data to understand purchasing behavior and segment customers based on their value to the business.
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+Using Python and SQL-based thinking, the analysis transforms raw transactional data into customer-level insights that support targeted strategies, retention efforts, and revenue optimization.
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+---
+
+## 🎯 Objectives
+- Analyze customer purchasing behavior  
+- Identify high-value customers  
+- Segment customers based on spending patterns  
+- Support data-driven decision-making  
+
+#### 📊 Visualisations Preview (Python)
+<img src="Customer segmentation Dashboard.png" width="800">
+[Read More](https://github.com/umorubulus/Customer-Segmentation-Analysis)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
