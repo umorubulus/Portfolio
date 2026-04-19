@@ -4,6 +4,17 @@ I am a passionate data analyst dedicated to turning data insights into actionabl
 I have a strong background in data analysis, visualization, and statistical modeling. I love to dive into datasets and extract meaningful insights that can help businesses thrive.
 
 ---
+### 🛠 Tools & Technologies
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
+
 
 ### 🔍 Core Skills
 
@@ -15,16 +26,6 @@ I have a strong background in data analysis, visualization, and statistical mode
 - SQL Querying & Data Extraction  
 - Python for Data Analysis (pandas, numpy)  
 - Statistical Thinking & Trend Analysis  
-
----
-
-### 🛠 Tools & Technologies
-
-- **Languages & Querying:** Python, SQL  
-- **Data Analysis:** pandas, numpy  
-- **Visualization:** Power BI, Matplotlib  
-- **Data Handling:** Microsoft Excel  
-- **Other:** Git, GitHub  
 
 ---
 
@@ -51,20 +52,24 @@ The objective is to transform structured sales data into actionable insights tha
 
 <img src="Sales Performance Dashboard.png" width="800">
 
-[Read More and Explore the Interactive Dashboard here](https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI)
+<p>
+  <a href="https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI" target="_blank">
+    🔗 View Full Project
+  </a>
+</p>
 
 ---
 
 ### **2.Customer Segmentation Analysis (Python, SQL)**
 
-## 📖 Overview
+#### 📖 Overview
 This project analyzes customer transaction data to understand purchasing behavior and segment customers based on their value to the business.
 
 Using Python and SQL-based thinking, the analysis transforms raw transactional data into customer-level insights that support targeted strategies, retention efforts, and revenue optimization.
 
 ---
 
-## 🎯 Objectives
+#### 🎯 Objectives
 - Analyze customer purchasing behavior  
 - Identify high-value customers  
 - Segment customers based on spending patterns  
@@ -72,7 +77,12 @@ Using Python and SQL-based thinking, the analysis transforms raw transactional d
 
 #### 📊 Visualisations Preview (Python)
 <img src="Customer segmentation Dashboard.png" width="800">
-[Read More](https://github.com/umorubulus/Customer-Segmentation-Analysis)
+
+<p>
+  <a href="https://github.com/umorubulus/Customer-Segmentation-Analysis" target="_blank">
+    🔗 View Full Project
+  </a>
+</p>
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
