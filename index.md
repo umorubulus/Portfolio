@@ -15,21 +15,6 @@ I have a strong background in data analysis, visualization, and statistical mode
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
 
-#### 🔹 Languages & Querying
-![Python](https://img.shields.io/badge/Python-blue)
-![SQL](https://img.shields.io/badge/SQL-lightgrey)     
-#### 🔹 Data Analysis
-![Pandas](https://img.shields.io/badge/pandas-150458)
-![NumPy](https://img.shields.io/badge/NumPy-013243)         
-#### 🔹 Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-yellow)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-orange)        
-#### 🔹 Data Handling
-![Microsoft Excel](https://img.shields.io/badge/Excel-green)        
-#### 🔹 Other Tools
-![Git](https://img.shields.io/badge/Git-red)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-
 
 ### 🔍 Core Skills
 
@@ -41,16 +26,6 @@ I have a strong background in data analysis, visualization, and statistical mode
 - SQL Querying & Data Extraction  
 - Python for Data Analysis (pandas, numpy)  
 - Statistical Thinking & Trend Analysis  
-
----
-
-### 🛠 Tools & Technologies
-
-- **Languages & Querying:** Python, SQL  
-- **Data Analysis:** pandas, numpy  
-- **Visualization:** Power BI, Matplotlib  
-- **Data Handling:** Microsoft Excel  
-- **Other:** Git, GitHub  
 
 ---
 
