@@ -4,7 +4,8 @@ description: "Data-driven Insights and Analytical Solutions Professional"
 url: "https://umorubulus.github.io"
 baseurl: "/Portfolio"
 logo: github_portfolio.jpg
-
+logo_width: "150px"
+logo_height: "auto"
 theme: jekyll-theme-minimal
 
 plugins:
