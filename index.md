@@ -61,6 +61,7 @@ Interactive dashboard analyzing sales performance across customers, regions, and
 👉 <a href="https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI" target="_blank">
     <b>🔗 View Full Dashboard Project</b>
   </a>
+  
 ---
 
 ## 🚀 2. Customer Segmentation Analysis  
