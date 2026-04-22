@@ -58,11 +58,55 @@ Interactive dashboard analyzing sales performance across customers, regions, and
 
 <img src="Sales Performance Dashboard.png" width="800">
 
-👉 [View Full Project](https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI)
+👉 <a href="https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI" target="_blank">
+    <b>🔗 View Full Dashboard Project</b>
+  </a>
 
 ---
+## 📊 2. Global Developer Trends Analysis  
+**Tools:**  Python (pandas, matplotlib), SQLite (data handling), IBM Cognos Analytics (Visualisation)
 
-## 🚀 2. Customer Segmentation Analysis  
+### 🔍 Overview  
+This project presents an end-to-end analysis of global developer trends using survey data. It explores **technology adoption, compensation patterns, job satisfaction, and future skill preferences**, with insights delivered through Python-based analysis and an interactive **IBM Cognos Analytics dashboard**.
+
+---
+### 🔑 Key Findings  
+1. Dominance of Modern Technologies  
+  - PostgreSQL, JavaScript/TypeScript, and AWS dominate both current and future usage  
+  - Indicates strong industry standardization around modern stacks  
+2. Rising Demand for Data & AI Technologies  
+  - Python shows significant growth in future preference  
+  - Reflects shift toward:
+    - Data science  
+    - Machine learning  
+    - Automation
+  
+3. Cloud Adoption is Strong and Growing  
+  - AWS and Microsoft Azure lead platform usage  
+  - Increasing interest in multi-cloud environments
+  
+4. Transition from Traditional to Modern Tools  
+  - Technologies like SQL Server and PHP remain widely used  
+  - But are less preferred for future learning
+
+5. Growth of Polyglot Development  
+  - Developers increasingly use multiple tools and technologies together  
+  - Reflects real-world system complexity and specialization  
+
+6. Developer Demographics Insight  
+  - Majority of respondents fall within 25–34 age group  
+  - Most hold Bachelor’s or Master’s degrees
+
+    <img src="Dev_trends1.png" width="800">
+
+     <img src="Dev_trends2.png" width="800">
+
+👉 <a href="https://github.com/umorubulus/Global-Developer-Trends-Analysis" target="_blank">
+    <b>🔗 View Full Project</b>
+  </a>
+
+  
+## 🚀 3. Customer Segmentation Analysis  
 **Tools:** Python, SQL  
 
 ### 📌 Overview  
@@ -75,17 +119,44 @@ Analyzed customer transaction data to segment customers based on value and behav
 
 <img src="Customer segmentation Dashboard.png" width="800">
 
-👉 [View Full Project](https://github.com/umorubulus/Customer-Segmentation-Analysis)
+👉 <a href="https://github.com/umorubulus/Customer-Segmentation-Analysis" target="_blank">
+    <b>🔗 View Full Project</b>
+  </a>
 
 ---
 
-# 📬 Contact
 
-Let’s connect:
+## CONTACT DETAILS
 
-- 📧 umorubulus@fukashere.edu.ng  
-- 📞 +49 1511 1238155  
-- 📍 Potsdam, Germany  
-- 💼 [LinkedIn](https://linkedin.com/in/bulus-umoru)
+*Let’s connect and see how we can make a difference together!*
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:umorubulus@fukashere.edu.ng">Email me</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(+49) 1511-1238-155</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Potsdam, Deutschland</td>
+    </tr>
+   <!-- <tr>
+      <td>⬇️</td>
+      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+    </tr>-->
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://linkedin.com/in/bulus-umoru">My LinkedIn Profile</a></td>
+    </tr>
+    
+  </tbody>
+</table>
 
----
+   
+
+
+
+
