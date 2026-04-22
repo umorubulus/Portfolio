@@ -64,17 +64,10 @@ Interactive dashboard analyzing sales performance across customers, regions, and
 
 ---
 ## 📊 2. Global Developer Trends Analysis  
+**Tools:**  Python (pandas, matplotlib), SQLite (data handling), IBM Cognos Analytics (Visualisation)
 
 ### 🔍 Overview  
 This project presents an end-to-end analysis of global developer trends using survey data. It explores **technology adoption, compensation patterns, job satisfaction, and future skill preferences**, with insights delivered through Python-based analysis and an interactive **IBM Cognos Analytics dashboard**.
-
----
-
-### 🛠️ Tools & Technologies  
-- Python (pandas, matplotlib)  
-- SQLite (data handling)  
-- IBM Cognos Analytics (dashboard & visualization)  
-- Data Cleaning & Transformation Techniques
 
 ---
 ### 🔑 Key Findings  
