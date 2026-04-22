@@ -77,26 +77,30 @@ This project presents an end-to-end analysis of global developer trends using su
 - Data Cleaning & Transformation Techniques
 
 ---
-## 🔑 Key Findings  
-### 1. Dominance of Modern Technologies  
+### 🔑 Key Findings  
+1. Dominance of Modern Technologies  
   - PostgreSQL, JavaScript/TypeScript, and AWS dominate both current and future usage  
   - Indicates strong industry standardization around modern stacks  
-### 2. Rising Demand for Data & AI Technologies  
+2. Rising Demand for Data & AI Technologies  
   - Python shows significant growth in future preference  
   - Reflects shift toward:
     - Data science  
     - Machine learning  
-    - Automation  
-### 3. Cloud Adoption is Strong and Growing  
+    - Automation
+  
+3. Cloud Adoption is Strong and Growing  
   - AWS and Microsoft Azure lead platform usage  
-  - Increasing interest in multi-cloud environments  
-### 4. Transition from Traditional to Modern Tools  
+  - Increasing interest in multi-cloud environments
+  
+4. Transition from Traditional to Modern Tools  
   - Technologies like SQL Server and PHP remain widely used  
-  - But are less preferred for future learning  
-### 5. Growth of Polyglot Development  
+  - But are less preferred for future learning
+
+5. Growth of Polyglot Development  
   - Developers increasingly use multiple tools and technologies together  
   - Reflects real-world system complexity and specialization  
-### 6. Developer Demographics Insight  
+
+6. Developer Demographics Insight  
   - Majority of respondents fall within 25–34 age group  
   - Most hold Bachelor’s or Master’s degrees
 
@@ -105,7 +109,7 @@ This project presents an end-to-end analysis of global developer trends using su
      <img src="Dev_trends2.png" width="800">
 
 👉 <a href="https://github.com/umorubulus/Global-Developer-Trends-Analysis" target="_blank">
-    <b>🔗 View Full Dashboard Project</b>
+    <b>🔗 View Full Project</b>
   </a>
 
   
