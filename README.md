@@ -93,7 +93,7 @@ The analysis integrates multiple data sources and applies data cleaning, transfo
 - Some countries achieve high efficiency with optimized resource use  
 - Global healthcare systems have improved over time, but disparities remain
   
-  <img src="images/healthcare_dashbo.png" width="800">
+  <img src="images/healthcare_dashboards.png" width="800">
 
 👉 <a href="https://github.com/umorubulus/Healthcare-Facility-Performance-and-Patient-Satisfaction-Analysis" target="_blank">
     <b>🔗 View Full Project</b>
