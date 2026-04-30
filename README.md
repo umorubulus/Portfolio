@@ -101,7 +101,7 @@ The analysis integrates multiple data sources and applies data cleaning, transfo
 
 
 ---
-## 📊 3. Global Developer Trends Analysis  
+## 📊 3. Global Developer Trends Analysis   
 **Tools:**  Python (pandas, matplotlib), SQLite (data handling), IBM Cognos Analytics (Visualisation)
 
 ### 🔍 Overview  
