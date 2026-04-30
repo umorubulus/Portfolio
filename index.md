@@ -63,7 +63,45 @@ Interactive dashboard analyzing sales performance across customers, regions, and
   </a>
 
 ---
-## 📊 2. Global Developer Trends Analysis  
+
+## 🏥 2. Healthcare Facility Performance & Patient Satisfaction Analysis
+**Tools:** Python, SQL  
+
+### 🔍 Overview  
+This project analyzes global healthcare performance using publicly available datasets to evaluate **patient satisfaction (proxy), healthcare quality, and system efficiency** across countries.
+
+The analysis integrates multiple data sources and applies data cleaning, transformation, and visualization techniques to uncover key insights into healthcare outcomes and operational performance.
+
+---
+
+### 🎯 Objectives  
+- Evaluate healthcare system performance across countries  
+- Analyze relationships between healthcare quality, expenditure, and outcomes  
+- Identify efficient and inefficient healthcare systems  
+- Translate complex healthcare data into actionable insights  
+
+---
+
+### 🛠️ Tools & Technologies  
+- Python (pandas, matplotlib, seaborn)  
+- SQL (data querying & aggregation)  
+- Excel (dashboard & reporting)  
+- PowerPoint (executive presentation) 
+---
+### 🔑 Key Insights  
+- Healthcare quality strongly influences life expectancy  
+- Increased healthcare spending improves outcomes, but not linearly  
+- Some countries achieve high efficiency with optimized resource use  
+- Global healthcare systems have improved over time, but disparities remain
+  
+  <img src="images/healthcare_dashboards.png" width="800">
+
+👉 <a href="https://github.com/umorubulus/Healthcare-Facility-Performance-and-Patient-Satisfaction-Analysis" target="_blank">
+    <b>🔗 View Full Project</b>
+  </a>
+
+  ---
+## 📊 3. Global Developer Trends Analysis  
 **Tools:**  Python (pandas, matplotlib), SQLite (data handling), IBM Cognos Analytics (Visualisation)
 
 ### 🔍 Overview  
@@ -106,7 +144,7 @@ This project presents an end-to-end analysis of global developer trends using su
   </a>
 
   
-## 🚀 3. Customer Segmentation Analysis  
+## 🚀 4. Customer Segmentation Analysis  
 **Tools:** Python, SQL  
 
 ### 📌 Overview  
