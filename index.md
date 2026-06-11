@@ -76,11 +76,11 @@ Organizations often struggle to answer questions such as:
 - How much revenue is being lost due to churn?
 - What actions can improve customer retention?
   
-# 1️⃣ Customer Churn Distribution
-![Customer Churn Distribution](image/churn_distribution.png)
+#### Customer Churn Distribution
+![Customer Churn Distribution](images/churn_distribution.png)
 
-# 2️⃣ Churn Rate by Contract Type
-![Churn Rate by Contract Type](image/churn_by_contract.png)
+#### Churn Rate by Contract Type
+![Churn Rate by Contract Type](images/churn_by_contract.png)
 
 👉 <a href="https://github.com/umorubulus/CodeAlpha-Customer-Churn-and-Revenue-Risk-Analysis
 " target="_blank">
