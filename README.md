@@ -43,11 +43,10 @@ I specialize in data analysis, dashboard development, and extracting meaningful 
 
 # 📊 Featured Projects
 
----
+
 ## 1. 📊 Customer Churn & Revenue Risk Analysis Using Python
 
----
-<p align="center">
+
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas)
@@ -56,7 +55,7 @@ I specialize in data analysis, dashboard development, and extracting meaningful 
 ![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-yellow)
 ![Business Analytics](https://img.shields.io/badge/Business-Analytics-red)
 
-</p>
+
 
 ---
 
