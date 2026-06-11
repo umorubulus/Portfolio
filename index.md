@@ -77,14 +77,14 @@ Organizations often struggle to answer questions such as:
 - What actions can improve customer retention?
   
 #### Customer Churn Distribution
-![Customer Churn Distribution](images/churn_distribution.png)  ![Churn Rate by Contract Type](images/churn_by_contract.png)
+![Customer Churn Distribution](images/churn_distribution.png) 
 
 #### Churn Rate by Contract Type
 ![Churn Rate by Contract Type](images/churn_by_contract.png)
 
 👉 <a href="https://github.com/umorubulus/CodeAlpha-Customer-Churn-and-Revenue-Risk-Analysis
 " target="_blank">
-    <b>🔗 View Full Project for full details</b>
+    <b>🔗 View Full Project for details</b>
   </a>
 
 ---
