@@ -49,7 +49,7 @@ I specialize in data analysis, dashboard development, and extracting meaningful 
 ---
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
