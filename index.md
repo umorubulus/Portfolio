@@ -52,7 +52,7 @@ I specialize in data analysis, dashboard development, and extracting meaningful 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
----
+
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
