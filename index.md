@@ -44,7 +44,7 @@ I specialize in data analysis, dashboard development, and extracting meaningful 
 # 📊 Featured Projects
 
 ---
-## 📊 Customer Churn & Revenue Risk Analysis Using Python
+## 1. 📊 Customer Churn & Revenue Risk Analysis Using Python
 
 
 <p align="center">
@@ -77,7 +77,7 @@ Organizations often struggle to answer questions such as:
 - What actions can improve customer retention?
   
 #### Customer Churn Distribution
-![Customer Churn Distribution](images/churn_distribution.png)
+![Customer Churn Distribution](images/churn_distribution.png)  ![Churn Rate by Contract Type](images/churn_by_contract.png)
 
 #### Churn Rate by Contract Type
 ![Churn Rate by Contract Type](images/churn_by_contract.png)
@@ -88,7 +88,7 @@ Organizations often struggle to answer questions such as:
   </a>
 
 ---
-## 🚀 Sales Performance Dashboard  
+## 2. 🚀 Sales Performance Dashboard  
 **Tools:** Power BI, Excel  
 
 ### 📌 Overview  
@@ -107,7 +107,7 @@ Interactive dashboard analyzing sales performance across customers, regions, and
 
 ---
 
-## 🏥  Healthcare Facility Performance & Patient Satisfaction Analysis
+## 3. 🏥  Healthcare Facility Performance & Patient Satisfaction Analysis
 **Tools:** Python, SQL  
 
 ### 🔍 Overview  
@@ -144,7 +144,7 @@ The analysis integrates multiple data sources and applies data cleaning, transfo
   </a>
 
   ---
-## 📊  Global Developer Trends Analysis  
+## 4. 📊  Global Developer Trends Analysis  
 **Tools:**  Python (pandas, matplotlib), SQLite (data handling), IBM Cognos Analytics (Visualisation)
 
 ### 🔍 Overview  
@@ -187,7 +187,7 @@ This project presents an end-to-end analysis of global developer trends using su
   </a>
 
   
-## 🚀 4. Customer Segmentation Analysis  
+## 🚀 5.  Customer Segmentation Analysis  
 **Tools:** Python, SQL  
 
 ### 📌 Overview  
