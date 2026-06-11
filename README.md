@@ -44,8 +44,48 @@ I specialize in data analysis, dashboard development, and extracting meaningful 
 # 📊 Featured Projects
 
 ---
+## 1. 📊 Customer Churn & Revenue Risk Analysis Using Python
 
-## 🚀 1. Sales Performance Dashboard  
+---
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-yellow)
+![Business Analytics](https://img.shields.io/badge/Business-Analytics-red)
+
+</p>
+
+---
+
+### 📌 Project Overview
+
+Customer retention is a major challenge for subscription-based businesses. Every time a customer leaves, the organization loses recurring revenue and may incur additional costs to acquire a replacement customer.
+
+This project applies data analytics techniques to understand customer churn behaviour, identify customer segments with elevated churn risk, estimate potential revenue loss, and provide business recommendations aimed at improving customer retention.
+
+Using Python and Exploratory Data Analysis (EDA), this project transforms raw customer subscription data into actionable business insights that can support strategic decision-making.
+### 🎯 Business Problem
+
+Organizations often struggle to answer questions such as:
+- Why are customers leaving?
+- Which customers are most likely to churn?
+- Which business factors influence churn?
+- How much revenue is being lost due to churn?
+- What actions can improve customer retention?
+  
+#### Customer Churn Distribution
+![Customer Churn Distribution](images/churn_distribution.png) 
+
+👉 <a href="https://github.com/umorubulus/CodeAlpha-Customer-Churn-and-Revenue-Risk-Analysis
+" target="_blank">
+    <b>🔗 View Full Project for details</b>
+  </a>
+
+---
+## 2. 🚀 Sales Performance Dashboard  
 **Tools:** Power BI, Excel  
 
 ### 📌 Overview  
@@ -62,8 +102,9 @@ Interactive dashboard analyzing sales performance across customers, regions, and
     <b>🔗 View Full Dashboard Project</b>
   </a>
 
+---
 
-## 🏥 2. Healthcare Facility Performance & Patient Satisfaction Analysis
+## 3. 🏥  Healthcare Facility Performance & Patient Satisfaction Analysis
 **Tools:** Python, SQL  
 
 ### 🔍 Overview  
@@ -99,9 +140,8 @@ The analysis integrates multiple data sources and applies data cleaning, transfo
     <b>🔗 View Full Project</b>
   </a>
 
-
----
-## 📊 3. Global Developer Trends Analysis   
+  ---
+## 4. 📊  Global Developer Trends Analysis  
 **Tools:**  Python (pandas, matplotlib), SQLite (data handling), IBM Cognos Analytics (Visualisation)
 
 ### 🔍 Overview  
@@ -144,7 +184,7 @@ This project presents an end-to-end analysis of global developer trends using su
   </a>
 
   
-## 🚀 4. Customer Segmentation Analysis  
+## 🚀 5.  Customer Segmentation Analysis  
 **Tools:** Python, SQL  
 
 ### 📌 Overview  
