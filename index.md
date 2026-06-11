@@ -84,7 +84,7 @@ Organizations often struggle to answer questions such as:
 
 👉 <a href="https://github.com/umorubulus/CodeAlpha-Customer-Churn-and-Revenue-Risk-Analysis
 " target="_blank">
-    <b>🔗 View Full Dashboard Project</b>
+    <b>🔗 View Full Project for full details</b>
   </a>
 
 ---
