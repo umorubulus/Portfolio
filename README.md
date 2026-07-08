@@ -43,10 +43,8 @@ I specialize in data analysis, dashboard development, and extracting meaningful 
 
 # 📊 Featured Projects
 
-## 1. # 🌐 Web Analytics & Conversion Funnel Analysis Dashboard | Python, GA4 & Power BI
+## 1. 🌐 Web Analytics & Conversion Funnel Analysis Dashboard | Python, GA4 & Power BI
 
-
-<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Power BI](https://img.shields.io/badge/Power-BI-F2C811?logo=powerbi&logoColor=black)
@@ -57,11 +55,11 @@ I specialize in data analysis, dashboard development, and extracting meaningful 
 ![Business Analytics](https://img.shields.io/badge/Business-Analytics-blueviolet)
 ![Power BI Dashboard](https://img.shields.io/badge/Dashboard-Interactive-yellow)
 
-</p>
+
 
 ---
 
-# 📌 Project Overview
+### 📌 Project Overview
 
 Modern businesses rely heavily on website analytics to understand customer behavior, evaluate marketing performance, and optimize digital experiences.
 
@@ -71,7 +69,7 @@ The analysis focuses on understanding how users navigate through a website, iden
 
 ---
 
-# 🎯 Business Problem
+### 🎯 Business Problem
 
 Organizations invest significant resources in attracting website visitors, yet many struggle to answer critical business questions such as:
 
@@ -92,7 +90,7 @@ This project addresses these challenges using web analytics, event tracking, and
 
 
 👉 <a href="https://github.com/umorubulus/Web-Analytics-GA4-Event-Tracking-and-Conversion-Funnel-Dashboard" target="_blank">
-    <b>🔗 View Full Dashboard Project</b>
+    <b>🔗 View Full Project here</b>
   </a>
 ## 2. 📊 Customer Churn & Revenue Risk Analysis Using Python
 
