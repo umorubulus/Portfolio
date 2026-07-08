@@ -46,7 +46,7 @@ I specialize in data analysis, dashboard development, and extracting meaningful 
 ## 1. # 🌐 Web Analytics & Conversion Funnel Analysis Dashboard | Python, GA4 & Power BI
 
 
-<p align="center">
+
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Power BI](https://img.shields.io/badge/Power-BI-F2C811?logo=powerbi&logoColor=black)
@@ -57,7 +57,7 @@ I specialize in data analysis, dashboard development, and extracting meaningful 
 ![Business Analytics](https://img.shields.io/badge/Business-Analytics-blueviolet)
 ![Power BI Dashboard](https://img.shields.io/badge/Dashboard-Interactive-yellow)
 
-</p>
+
 
 ---
 
