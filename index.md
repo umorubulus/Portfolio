@@ -43,8 +43,58 @@ I specialize in data analysis, dashboard development, and extracting meaningful 
 
 # 📊 Featured Projects
 
+## 1. # 🌐 Web Analytics & Conversion Funnel Analysis Dashboard | Python, GA4 & Power BI
 
-## 1. 📊 Customer Churn & Revenue Risk Analysis Using Python
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Power BI](https://img.shields.io/badge/Power-BI-F2C811?logo=powerbi&logoColor=black)
+![GA4](https://img.shields.io/badge/Google%20Analytics-4-E37400?logo=googleanalytics&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-success)
+![Business Analytics](https://img.shields.io/badge/Business-Analytics-blueviolet)
+![Power BI Dashboard](https://img.shields.io/badge/Dashboard-Interactive-yellow)
+
+</p>
+
+---
+
+# 📌 Project Overview
+
+Modern businesses rely heavily on website analytics to understand customer behavior, evaluate marketing performance, and optimize digital experiences.
+
+This project demonstrates an end-to-end web analytics solution that simulates Google Analytics 4 (GA4) event tracking data, processes and analyzes user interactions with Python, and presents business insights through an interactive Power BI dashboard.
+
+The analysis focuses on understanding how users navigate through a website, identifying where potential customers abandon the conversion process, evaluating marketing channel performance, and providing actionable recommendations for improving conversion rates and business performance.
+
+---
+
+# 🎯 Business Problem
+
+Organizations invest significant resources in attracting website visitors, yet many struggle to answer critical business questions such as:
+
+- Why do visitors leave before converting?
+- Which marketing channels generate the highest-quality traffic?
+- Which devices deliver the best conversion performance?
+- Which pages lose the most potential customers?
+- Where do users abandon the purchase journey?
+- How can website performance be optimized to increase conversions?
+
+Without understanding these user behaviors, businesses risk losing valuable customers, reducing marketing effectiveness, and limiting revenue growth.
+
+This project addresses these challenges using web analytics, event tracking, and conversion funnel analysis.
+
+<p align="center">
+  <img src="images/executive_dashboard.png" alt="Web Analytics Dashboard Banner" width="80%">
+</p>
+
+
+👉 <a href="https://github.com/umorubulus/Web-Analytics-GA4-Event-Tracking-and-Conversion-Funnel-Dashboard" target="_blank">
+    <b>🔗 View Full Dashboard Project</b>
+  </a>
+## 2. 📊 Customer Churn & Revenue Risk Analysis Using Python
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas)
@@ -81,7 +131,7 @@ Organizations often struggle to answer questions such as:
   </a>
 
 ---
-## 2. 🚀 Sales Performance Dashboard  
+## 3. 🚀 Sales Performance Dashboard  
 **Tools:** Power BI, Excel  
 
 ### 📌 Overview  
@@ -100,7 +150,7 @@ Interactive dashboard analyzing sales performance across customers, regions, and
 
 ---
 
-## 3. 🏥  Healthcare Facility Performance & Patient Satisfaction Analysis
+## 4. 🏥  Healthcare Facility Performance & Patient Satisfaction Analysis
 **Tools:** Python, SQL  
 
 ### 🔍 Overview  
@@ -137,7 +187,7 @@ The analysis integrates multiple data sources and applies data cleaning, transfo
   </a>
 
   ---
-## 4. 📊  Global Developer Trends Analysis  
+## 5. 📊  Global Developer Trends Analysis  
 **Tools:**  Python (pandas, matplotlib), SQLite (data handling), IBM Cognos Analytics (Visualisation)
 
 ### 🔍 Overview  
@@ -180,7 +230,7 @@ This project presents an end-to-end analysis of global developer trends using su
   </a>
 
   
-## 🚀 5.  Customer Segmentation Analysis  
+## 🚀 6.  Customer Segmentation Analysis  
 **Tools:** Python, SQL  
 
 ### 📌 Overview  
