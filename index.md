@@ -85,7 +85,7 @@ Without understanding these user behaviors, businesses risk losing valuable cust
 This project addresses these challenges using web analytics, event tracking, and conversion funnel analysis.
 
 <p align="center">
-  <img src="images/executive_dashboard.png" alt="Web Analytics Dashboard Banner" width="80%">
+  <img src="images/executive_dashboard.png" alt="Web Analytics Dashboard Banner" width="100%">
 </p>
 
 
