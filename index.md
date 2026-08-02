@@ -1,5 +1,5 @@
 # 👋 Bulus Umoru  
-### Data Analyst | Sales Analyst | Turning Commercial and Business Data into Business Insights  
+### Data Analyst | Sales Analyst | Turning Commercial and Business Data into Impactful Business Insights  
 
 📍 Potsdam, Germany  
 🔗 [LinkedIn](https://linkedin.com/in/bulus-umoru)  
