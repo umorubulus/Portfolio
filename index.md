@@ -1,5 +1,5 @@
 # 👋 Bulus Umoru  
-### Data Analyst | Turning Data into Business Insights  
+### Data Analyst | Sales Analyst | Turning Commercial and Business Data into Business Insights  
 
 📍 Potsdam, Germany  
 🔗 [LinkedIn](https://linkedin.com/in/bulus-umoru)  
@@ -11,7 +11,7 @@
 
 I am a Data Analyst with a strong focus on transforming data into actionable insights that support business decisions.
 
-I specialize in data analysis, dashboard development, and extracting meaningful patterns from data to solve real-world problems. My work combines analytical thinking with practical tools to deliver clear, impactful results.
+I specialize in sales and data analysis, dashboard development, and extracting meaningful patterns from data to solve real-world problems through clear KPI. My work combines analytical thinking with practical tools to deliver clear and impactful results.
 
 ---
 
@@ -34,7 +34,8 @@ I specialize in data analysis, dashboard development, and extracting meaningful 
 - Data Analysis & Exploration  
 - Data Cleaning & Transformation  
 - Data Visualization & Dashboard Development  
-- KPI Tracking & Performance Analysis  
+- KPI Tracking & Performance Analysis
+- Sales Analysis and Commercial Data Interpretation  
 - SQL Querying & Data Extraction  
 - Python (pandas, numpy) for Data Analysis  
 - Business Insight Generation  
