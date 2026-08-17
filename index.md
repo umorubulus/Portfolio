@@ -44,7 +44,28 @@ I specialize in sales and data analysis, dashboard development, and extracting m
 
 # 📊 Featured Projects
 
-## 1. 🌐 Web Analytics & Conversion Funnel Analysis Dashboard | Python, GA4 & Power BI
+## 1. 📈 Sales Funnel and Commercial Performance Dashboard(International Vehicle Payments) | Excel, Power BI & Business Analytics
+<p align="center">
+![Power BI](https://img.shields.io/badge/Power-BI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?logo=microsoftexcel&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-blueviolet)
+![Sales Analytics](https://img.shields.io/badge/Sales-Analytics-blue)
+![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-success)
+![KPI Reporting](https://img.shields.io/badge/KPI-Reporting-orange)
+
+</p>
+
+<p align="center">
+  <img src="images/project_banner.png" alt="Sales Performance Dashboard Banner" width="100%">
+</p>
+
+
+
+👉 <a href="https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI" target="_blank">
+    <b>🔗 View Full Dashboard Project</b>
+  </a>
+
+## 2. 🌐 Web Analytics & Conversion Funnel Analysis Dashboard | Python, GA4 & Power BI
 
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
@@ -55,8 +76,6 @@ I specialize in sales and data analysis, dashboard development, and extracting m
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-success)
 ![Business Analytics](https://img.shields.io/badge/Business-Analytics-blueviolet)
 ![Power BI Dashboard](https://img.shields.io/badge/Dashboard-Interactive-yellow)
-
-
 
 ---
 
@@ -93,7 +112,7 @@ This project addresses these challenges using web analytics, event tracking, and
 👉 <a href="https://github.com/umorubulus/Web-Analytics-GA4-Event-Tracking-and-Conversion-Funnel-Dashboard" target="_blank">
     <b>🔗 View Full Project here</b>
   </a>
-## 2. 📊 Customer Churn & Revenue Risk Analysis Using Python
+## 3. 📊 Customer Churn & Revenue Risk Analysis Using Python
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas)
@@ -127,24 +146,6 @@ Organizations often struggle to answer questions such as:
 👉 <a href="https://github.com/umorubulus/CodeAlpha-Customer-Churn-and-Revenue-Risk-Analysis
 " target="_blank">
     <b>🔗 View Full Project for details</b>
-  </a>
-
----
-## 3. 🚀 Sales Performance Dashboard  
-**Tools:** Power BI, Excel  
-
-### 📌 Overview  
-Interactive dashboard analyzing sales performance across customers, regions, and products to support business decision-making.
-
-### 📊 Key Insights  
-- Identified top-performing regions and revenue drivers  
-- Highlighted customer contribution patterns  
-- Revealed opportunities for improving low-performing segments  
-
-<img src="Sales Performance Dashboard.png" width="800">
-
-👉 <a href="https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI" target="_blank">
-    <b>🔗 View Full Dashboard Project</b>
   </a>
 
 ---
