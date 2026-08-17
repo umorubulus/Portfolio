@@ -3,7 +3,6 @@
 
 📍 Potsdam, Germany  
 🔗 [LinkedIn](https://linkedin.com/in/bulus-umoru)  
-<!--📄 [Download CV](https://etuk123456.github.io/portfolio1/docs/Profile.pdf)-->
 
 ---
 
