@@ -66,15 +66,7 @@ The project combines **Excel, Power Query, data modelling, DAX, and Power BI** t
 
 High lead generation or customer acquisition does not necessarily translate into strong commercial performance.
 
-A business may generate a large number of leads and sales wins while still experiencing:
-
-* Low conversion rates
-* Poor customer activation
-* Weak transaction usage
-* Revenue underperformance
-* High customer attrition
-* Uneven market performance
-* Ineffective acquisition channels
+A business may generate a large number of leads and sales wins while still experiencing Low conversion rates, Poor customer activation, Weak transaction usage, Revenue underperformance, High customer attrition, Uneven market performance and Ineffective acquisition channels
 
 The objective of this project was therefore to develop a reporting solution capable of answering important commercial questions such as:
 
@@ -89,22 +81,6 @@ The objective of this project was therefore to develop a reporting solution capa
 * How significant is customer churn?
 
 ---
-
-## 🎯 Project Objectives
-
-The project was designed to:
-
-1. Profile and validate raw sales, customer, and transaction data.
-2. Identify and resolve data quality issues.
-3. Standardise market, customer, and channel definitions.
-4. Build a relational data model in Power BI.
-5. Develop business measures using DAX.
-6. Analyse sales funnel performance.
-7. Measure customer activation and churn.
-8. Evaluate acquisition channel effectiveness.
-9. Compare realised revenue against revenue targets.
-10. Analyse performance across markets and sales representatives.
-11. Translate analytical findings into business recommendations.
 
 <p align="center">
   <img src="images/Sales Performance Dashboard new.png" alt="Sales Performance Dashboard Banner" width="100%">
