@@ -45,8 +45,6 @@ I specialize in sales and data analysis, dashboard development, and extracting m
 # 📊 Featured Projects
 
 ## 1. 📈 Sales Funnel and Commercial Performance Dashboard(IVP) | Excel, Power BI & Business Analytics
-
-<p align="center">
   
 ![Power BI](https://img.shields.io/badge/Power-BI-F2C811?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?logo=microsoftexcel&logoColor=white)
@@ -55,8 +53,7 @@ I specialize in sales and data analysis, dashboard development, and extracting m
 ![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-success)
 ![KPI Reporting](https://img.shields.io/badge/KPI-Reporting-orange)
 
-</p>
-
+---
 ## 📌 Project Overview
 
 This project is an end-to-end **Sales Analytics and Business Intelligence case study** designed to analyse commercial performance across the complete sales funnel of a simulated international vehicle payments business.
