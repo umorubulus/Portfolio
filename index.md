@@ -44,7 +44,8 @@ I specialize in sales and data analysis, dashboard development, and extracting m
 
 # 📊 Featured Projects
 
-## 1. 📈 Sales Funnel and Commercial Performance Dashboard(International Vehicle Payments) | Excel, Power BI & Business Analytics
+## 1. 📈 Sales Funnel and Commercial Performance Dashboard(IVP) | Excel, Power BI & Business Analytics
+
 <p align="center">
   
 ![Power BI](https://img.shields.io/badge/Power-BI-F2C811?logo=powerbi&logoColor=black)
