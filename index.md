@@ -174,7 +174,26 @@ Organizations often struggle to answer questions such as:
 
 ---
 
-## 4. 🏥  Healthcare Facility Performance & Patient Satisfaction Analysis
+## 🚀 4.  Customer Segmentation Analysis  
+**Tools:** Python, SQL  
+
+### 📌 Overview  
+Analyzed customer transaction data to segment customers based on value and behavior.
+
+### 📊 Key Insights  
+- Identified high-value and low-value customer groups  
+- Enabled targeted marketing strategies  
+- Improved understanding of purchasing behavior  
+
+<img src="Customer segmentation Dashboard.png" width="800">
+
+👉 <a href="https://github.com/umorubulus/Customer-Segmentation-Analysis" target="_blank">
+    <b>🔗 View Full Project</b>
+  </a>
+
+---
+
+## 5. 🏥  Healthcare Facility Performance & Patient Satisfaction Analysis
 **Tools:** Python, SQL  
 
 ### 🔍 Overview  
@@ -211,7 +230,7 @@ The analysis integrates multiple data sources and applies data cleaning, transfo
   </a>
 
   ---
-## 5. 📊  Global Developer Trends Analysis  
+## 6. 📊  Global Developer Trends Analysis  
 **Tools:**  Python (pandas, matplotlib), SQLite (data handling), IBM Cognos Analytics (Visualisation)
 
 ### 🔍 Overview  
@@ -252,26 +271,6 @@ This project presents an end-to-end analysis of global developer trends using su
 👉 <a href="https://github.com/umorubulus/Global-Developer-Trends-Analysis" target="_blank">
     <b>🔗 View Full Project</b>
   </a>
-
-  
-## 🚀 6.  Customer Segmentation Analysis  
-**Tools:** Python, SQL  
-
-### 📌 Overview  
-Analyzed customer transaction data to segment customers based on value and behavior.
-
-### 📊 Key Insights  
-- Identified high-value and low-value customer groups  
-- Enabled targeted marketing strategies  
-- Improved understanding of purchasing behavior  
-
-<img src="Customer segmentation Dashboard.png" width="800">
-
-👉 <a href="https://github.com/umorubulus/Customer-Segmentation-Analysis" target="_blank">
-    <b>🔗 View Full Project</b>
-  </a>
-
----
 
 
 ## CONTACT DETAILS
