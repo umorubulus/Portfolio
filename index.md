@@ -287,7 +287,7 @@ This project presents an end-to-end analysis of global developer trends using su
     </tr>
     <tr>
       <td>📍</td>
-      <td>Potsdam, Deutschland</td>
+      <td>Potsdam,Berlin-Brandenburg Deutschland</td>
     </tr>
    <!-- <tr>
       <td>⬇️</td>
