@@ -79,7 +79,7 @@ The objective of this project was therefore to develop a reporting solution capa
 * How significant is customer churn?
 
 ---
-
+## Dashboard Overview
 <p align="center">
   <img src="images/Sales Performance Dashboard new.png" alt="Sales Performance Dashboard Banner" width="100%">
 </p>
