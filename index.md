@@ -88,7 +88,7 @@ The objective of this project was therefore to develop a reporting solution capa
 
 
 👉 <a href="https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI" target="_blank">
-    <b>🔗 View Full Dashboard Project</b>
+    <b>🔗 View Full Project</b>
   </a>
 
 ## 2. 🌐 Web Analytics & Conversion Funnel Analysis Dashboard | Python, GA4 & Power BI
