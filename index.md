@@ -46,6 +46,7 @@ I specialize in sales and data analysis, dashboard development, and extracting m
 
 ## 1. 📈 Sales Funnel and Commercial Performance Dashboard(International Vehicle Payments) | Excel, Power BI & Business Analytics
 <p align="center">
+  
 ![Power BI](https://img.shields.io/badge/Power-BI-F2C811?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?logo=microsoftexcel&logoColor=white)
 ![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-blueviolet)
@@ -55,10 +56,59 @@ I specialize in sales and data analysis, dashboard development, and extracting m
 
 </p>
 
-<p align="center">
-  <img src="images/project_banner.png" alt="Sales Performance Dashboard Banner" width="100%">
-</p>
+## 📌 Project Overview
 
+This project is an end-to-end **Sales Analytics and Business Intelligence case study** designed to analyse commercial performance across the complete sales funnel of a simulated international vehicle payments business.
+
+The project combines **Excel, Power Query, data modelling, DAX, and Power BI** to transform raw lead, customer, sales representative, target, and transaction data into actionable commercial insights.
+
+## 🎯 Business Problem
+
+High lead generation or customer acquisition does not necessarily translate into strong commercial performance.
+
+A business may generate a large number of leads and sales wins while still experiencing:
+
+* Low conversion rates
+* Poor customer activation
+* Weak transaction usage
+* Revenue underperformance
+* High customer attrition
+* Uneven market performance
+* Ineffective acquisition channels
+
+The objective of this project was therefore to develop a reporting solution capable of answering important commercial questions such as:
+
+* How effectively are leads progressing through the sales funnel?
+* Where are potential customers dropping out?
+* How many won customers successfully activate?
+* Are activated customers generating expected revenue?
+* Which markets generate the most revenue?
+* Which acquisition channels convert most effectively?
+* Which sales representatives generate the strongest commercial results?
+* Are revenue targets being achieved?
+* How significant is customer churn?
+
+---
+
+## 🎯 Project Objectives
+
+The project was designed to:
+
+1. Profile and validate raw sales, customer, and transaction data.
+2. Identify and resolve data quality issues.
+3. Standardise market, customer, and channel definitions.
+4. Build a relational data model in Power BI.
+5. Develop business measures using DAX.
+6. Analyse sales funnel performance.
+7. Measure customer activation and churn.
+8. Evaluate acquisition channel effectiveness.
+9. Compare realised revenue against revenue targets.
+10. Analyse performance across markets and sales representatives.
+11. Translate analytical findings into business recommendations.
+
+<p align="center">
+  <img src="images/Sales Performance Dashboard new.png" alt="Sales Performance Dashboard Banner" width="100%">
+</p>
 
 
 👉 <a href="https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI" target="_blank">
