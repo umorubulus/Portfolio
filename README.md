@@ -1,5 +1,5 @@
 # 👋 Bulus Umoru  
-### Data Analyst | Turning Data into Business Insights  
+### Data Analyst | Sales Analyst | Turning Commercial and Business Data into Impactful Business Insights  
 
 📍 Potsdam, Germany  
 🔗 [LinkedIn](https://linkedin.com/in/bulus-umoru)  
@@ -11,7 +11,7 @@
 
 I am a Data Analyst with a strong focus on transforming data into actionable insights that support business decisions.
 
-I specialize in data analysis, dashboard development, and extracting meaningful patterns from data to solve real-world problems. My work combines analytical thinking with practical tools to deliver clear, impactful results.
+I specialize in sales and data analysis, dashboard development, and extracting meaningful patterns from data to solve real-world problems through clear KPI. My work combines analytical thinking with practical tools to deliver clear and impactful results.
 
 ---
 
@@ -34,7 +34,8 @@ I specialize in data analysis, dashboard development, and extracting meaningful 
 - Data Analysis & Exploration  
 - Data Cleaning & Transformation  
 - Data Visualization & Dashboard Development  
-- KPI Tracking & Performance Analysis  
+- KPI Tracking & Performance Analysis
+- Sales Analysis and Commercial Data Interpretation  
 - SQL Querying & Data Extraction  
 - Python (pandas, numpy) for Data Analysis  
 - Business Insight Generation  
@@ -43,7 +44,52 @@ I specialize in data analysis, dashboard development, and extracting meaningful 
 
 # 📊 Featured Projects
 
-## 1. 🌐 Web Analytics & Conversion Funnel Analysis Dashboard | Python, GA4 & Power BI
+## 1. 📈 Sales Funnel and Commercial Performance Dashboard(IVP) | Excel, Power BI & Business Analytics
+  
+![Power BI](https://img.shields.io/badge/Power-BI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?logo=microsoftexcel&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-blueviolet)
+![Sales Analytics](https://img.shields.io/badge/Sales-Analytics-blue)
+![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-success)
+![KPI Reporting](https://img.shields.io/badge/KPI-Reporting-orange)
+
+---
+## 📌 Project Overview
+
+This project is an end-to-end **Sales Analytics and Business Intelligence case study** designed to analyse commercial performance across the complete sales funnel of a simulated international vehicle payments business.
+
+The project combines **Excel, Power Query, data modelling, DAX, and Power BI** to transform raw lead, customer, sales representative, target, and transaction data into actionable commercial insights.
+
+## 🎯 Business Problem
+
+High lead generation or customer acquisition does not necessarily translate into strong commercial performance.
+
+A business may generate a large number of leads and sales wins while still experiencing Low conversion rates, Poor customer activation, Weak transaction usage, Revenue underperformance, High customer attrition, Uneven market performance and Ineffective acquisition channels
+
+The objective of this project was therefore to develop a reporting solution capable of answering important commercial questions such as:
+
+* How effectively are leads progressing through the sales funnel?
+* Where are potential customers dropping out?
+* How many won customers successfully activate?
+* Are activated customers generating expected revenue?
+* Which markets generate the most revenue?
+* Which acquisition channels convert most effectively?
+* Which sales representatives generate the strongest commercial results?
+* Are revenue targets being achieved?
+* How significant is customer churn?
+
+---
+
+<p align="center">
+  <img src="images/Sales Performance Dashboard new.png" alt="Sales Performance Dashboard Banner" width="100%">
+</p>
+
+
+👉 <a href="https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI" target="_blank">
+    <b>🔗 View Full Project</b>
+  </a>
+
+## 2. 🌐 Web Analytics & Conversion Funnel Analysis Dashboard | Python, GA4 & Power BI
 
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
@@ -54,8 +100,6 @@ I specialize in data analysis, dashboard development, and extracting meaningful 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-success)
 ![Business Analytics](https://img.shields.io/badge/Business-Analytics-blueviolet)
 ![Power BI Dashboard](https://img.shields.io/badge/Dashboard-Interactive-yellow)
-
-
 
 ---
 
@@ -85,14 +129,14 @@ Without understanding these user behaviors, businesses risk losing valuable cust
 This project addresses these challenges using web analytics, event tracking, and conversion funnel analysis.
 
 <p align="center">
-  <img src="images/executive_dashboard.png" alt="Web Analytics Dashboard Banner" width="80%">
+  <img src="images/executive_dashboard.png" alt="Web Analytics Dashboard Banner" width="100%">
 </p>
 
 
 👉 <a href="https://github.com/umorubulus/Web-Analytics-GA4-Event-Tracking-and-Conversion-Funnel-Dashboard" target="_blank">
     <b>🔗 View Full Project here</b>
   </a>
-## 2. 📊 Customer Churn & Revenue Risk Analysis Using Python
+## 3. 📊 Customer Churn & Revenue Risk Analysis Using Python
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas)
@@ -126,24 +170,6 @@ Organizations often struggle to answer questions such as:
 👉 <a href="https://github.com/umorubulus/CodeAlpha-Customer-Churn-and-Revenue-Risk-Analysis
 " target="_blank">
     <b>🔗 View Full Project for details</b>
-  </a>
-
----
-## 3. 🚀 Sales Performance Dashboard  
-**Tools:** Power BI, Excel  
-
-### 📌 Overview  
-Interactive dashboard analyzing sales performance across customers, regions, and products to support business decision-making.
-
-### 📊 Key Insights  
-- Identified top-performing regions and revenue drivers  
-- Highlighted customer contribution patterns  
-- Revealed opportunities for improving low-performing segments  
-
-<img src="Sales Performance Dashboard.png" width="800">
-
-👉 <a href="https://github.com/umorubulus/Sales-Performance-Dashboard-PowerBI" target="_blank">
-    <b>🔗 View Full Dashboard Project</b>
   </a>
 
 ---
