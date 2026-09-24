@@ -43,7 +43,7 @@ I specialize in sales and data analysis, dashboard development, and extracting m
 
 # 📊 Featured Projects
 
-## 1. 📈 Sales Funnel and Commercial Performance Dashboard(IVP) | Excel, Power BI & Business Analytics
+## 1. 📈 Customer Base KPI & Retention Dashboard | Excel, Power BI & Business Analytics
   
 ![Power BI](https://img.shields.io/badge/Power-BI-F2C811?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?logo=microsoftexcel&logoColor=white)
@@ -88,7 +88,7 @@ The objective of this project was therefore to develop a reporting solution capa
     <b>🔗 View Full Project</b>
   </a>
 
-## 2. 🌐 Web Analytics & Conversion Funnel Analysis Dashboard | Python, GA4 & Power BI
+## 2. 🌐Web Analytics & Customer Journey Funnel | Python, GA4 & Power BI
 
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
@@ -135,7 +135,7 @@ This project addresses these challenges using web analytics, event tracking, and
 👉 <a href="https://github.com/umorubulus/Web-Analytics-GA4-Event-Tracking-and-Conversion-Funnel-Dashboard" target="_blank">
     <b>🔗 View Full Project here</b>
   </a>
-## 3. 📊 Customer Churn & Revenue Risk Analysis Using Python
+## 3. 📊 Customer Churn & Revenue Risk Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas)
@@ -173,7 +173,7 @@ Organizations often struggle to answer questions such as:
 
 ---
 
-## 🚀 4.  Customer Segmentation Analysis  
+## 🚀 4.  Customer Segmentation and Cross-Selling Target Analysis  
 **Tools:** Python, SQL  
 
 ### 📌 Overview  
