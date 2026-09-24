@@ -43,7 +43,64 @@ I specialize in sales and data analysis, dashboard development, and extracting m
 
 # 📊 Featured Projects
 
-## 1. 📈 Customer Base KPI & Retention Dashboard | Excel, Power BI & Business Analytics
+## 1. 📊 Customer Churn & Revenue Risk Analysis
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-yellow)
+![Business Analytics](https://img.shields.io/badge/Business-Analytics-red)
+
+
+---
+
+### 📌 Project Overview
+
+Customer retention is a major challenge for subscription-based businesses. Every time a customer leaves, the organization loses recurring revenue and may incur additional costs to acquire a replacement customer.
+
+This project applies data analytics techniques to understand customer churn behaviour, identify customer segments with elevated churn risk, estimate potential revenue loss, and provide business recommendations aimed at improving customer retention.
+
+Using Python and Exploratory Data Analysis (EDA), this project transforms raw customer subscription data into actionable business insights that can support strategic decision-making.
+### 🎯 Business Problem
+
+Organizations often struggle to answer questions such as:
+- Why are customers leaving?
+- Which customers are most likely to churn?
+- Which business factors influence churn?
+- How much revenue is being lost due to churn?
+- What actions can improve customer retention?
+  
+#### Customer Churn Distribution
+![Customer Churn Distribution](images/churn_distribution.png) 
+
+👉 <a href="https://github.com/umorubulus/CodeAlpha-Customer-Churn-and-Revenue-Risk-Analysis
+" target="_blank">
+    <b>🔗 View Full Project for details</b>
+  </a>
+
+---
+
+## 🚀 2.  Customer Segmentation and Cross-Selling Target Analysis  
+**Tools:** Python, SQL  
+
+### 📌 Overview  
+Analyzed customer transaction data to segment customers based on value and behavior.
+
+### 📊 Key Insights  
+- Identified high-value and low-value customer groups  
+- Enabled targeted marketing strategies  
+- Improved understanding of purchasing behavior  
+
+<img src="Customer segmentation Dashboard.png" width="800">
+
+👉 <a href="https://github.com/umorubulus/Customer-Segmentation-Analysis" target="_blank">
+    <b>🔗 View Full Project</b>
+  </a>
+
+---
+
+## 3. 📈 Customer Base KPI & Retention Dashboard | Excel, Power BI & Business Analytics
   
 ![Power BI](https://img.shields.io/badge/Power-BI-F2C811?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?logo=microsoftexcel&logoColor=white)
@@ -88,7 +145,7 @@ The objective of this project was therefore to develop a reporting solution capa
     <b>🔗 View Full Project</b>
   </a>
 
-## 2. 🌐Web Analytics & Customer Journey Funnel | Python, GA4 & Power BI
+## 4. 🌐Web Analytics & Customer Journey Funnel | Python, GA4 & Power BI
 
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
@@ -135,62 +192,7 @@ This project addresses these challenges using web analytics, event tracking, and
 👉 <a href="https://github.com/umorubulus/Web-Analytics-GA4-Event-Tracking-and-Conversion-Funnel-Dashboard" target="_blank">
     <b>🔗 View Full Project here</b>
   </a>
-## 3. 📊 Customer Churn & Revenue Risk Analysis
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
-![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-yellow)
-![Business Analytics](https://img.shields.io/badge/Business-Analytics-red)
-
-
----
-
-### 📌 Project Overview
-
-Customer retention is a major challenge for subscription-based businesses. Every time a customer leaves, the organization loses recurring revenue and may incur additional costs to acquire a replacement customer.
-
-This project applies data analytics techniques to understand customer churn behaviour, identify customer segments with elevated churn risk, estimate potential revenue loss, and provide business recommendations aimed at improving customer retention.
-
-Using Python and Exploratory Data Analysis (EDA), this project transforms raw customer subscription data into actionable business insights that can support strategic decision-making.
-### 🎯 Business Problem
-
-Organizations often struggle to answer questions such as:
-- Why are customers leaving?
-- Which customers are most likely to churn?
-- Which business factors influence churn?
-- How much revenue is being lost due to churn?
-- What actions can improve customer retention?
-  
-#### Customer Churn Distribution
-![Customer Churn Distribution](images/churn_distribution.png) 
-
-👉 <a href="https://github.com/umorubulus/CodeAlpha-Customer-Churn-and-Revenue-Risk-Analysis
-" target="_blank">
-    <b>🔗 View Full Project for details</b>
-  </a>
-
----
-
-## 🚀 4.  Customer Segmentation and Cross-Selling Target Analysis  
-**Tools:** Python, SQL  
-
-### 📌 Overview  
-Analyzed customer transaction data to segment customers based on value and behavior.
-
-### 📊 Key Insights  
-- Identified high-value and low-value customer groups  
-- Enabled targeted marketing strategies  
-- Improved understanding of purchasing behavior  
-
-<img src="Customer segmentation Dashboard.png" width="800">
-
-👉 <a href="https://github.com/umorubulus/Customer-Segmentation-Analysis" target="_blank">
-    <b>🔗 View Full Project</b>
-  </a>
-
----
 
 ## 5. 🏥  Healthcare Facility Performance & Patient Satisfaction Analysis
 **Tools:** Python, SQL  
